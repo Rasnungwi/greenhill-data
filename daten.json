@@ -1,41 +1,41 @@
 {
  "aussenluft": {
-  "absolute_feuchte": 6.84,
+  "absolute_feuchte": 6.95,
   "brandampel": "gruen",
-  "co2": 437.0,
-  "feuchte": 79.75,
+  "co2": 436.0,
+  "feuchte": 80.11,
   "nox": 1.0,
-  "pm03": 159.0,
-  "pm1": 0.0,
-  "pm10": 0.0,
-  "pm25": 0.0,
-  "smokeindex": 17.0,
-  "temperatur": 8.59,
-  "voc": 249.0
+  "pm03": 234.0,
+  "pm1": 1.0,
+  "pm10": 3.7,
+  "pm25": 2.6,
+  "smokeindex": 18.0,
+  "temperatur": 8.78,
+  "voc": 241.0
  },
  "haus": {
   "carport": {
-   "feuchte": 77.1,
+   "feuchte": 76.9,
    "taupunkt": 4.2,
-   "temperatur": 8.4
+   "temperatur": 8.6
   },
   "keller": {
-   "absolute_feuchte": 7.25,
+   "absolute_feuchte": 7.24,
    "entfeuchter": "laeuft",
-   "feuchte": 56.16,
-   "feuchte_differenz": 0.41,
+   "feuchte": 56.12,
+   "feuchte_differenz": 0.29,
    "hinweis": "Entfeuchter läuft, die Feuchte sinkt.",
-   "lueftung": "grenzwertig",
+   "lueftung": "nicht_lueften",
    "schimmelrisiko": "gering",
    "takt_min": 70,
-   "taupunkt": 6.5,
-   "temperatur": 15.14,
-   "wandfeuchte": 61.9,
+   "taupunkt": 6.4,
+   "temperatur": 15.13,
+   "wandfeuchte": 61.8,
    "zacken_4h": 5
   }
  },
  "quelle": "Home Assistant 2026.11.0",
- "stand": "2026-11-19T09:15:00+01:00",
+ "stand": "2026-11-19T09:20:00+01:00",
  "verlauf": {
   "carport_h": {
    "24h": [
@@ -2048,7 +2048,7 @@
   "lage": "cloudy",
   "regen": false,
   "regen_seit": "2026-11-18T05:55:02+01:00",
-  "temperatur": 6.8,
-  "wind_kmh": 1.8
+  "temperatur": 6.9,
+  "wind_kmh": 0.7
  }
 }
