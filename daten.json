@@ -1,17 +1,17 @@
 {
  "aussenluft": {
   "absolute_feuchte": 2.63,
-  "brandampel": "gelb",
+  "brandampel": "gruen",
   "co2": 461.0,
-  "feuchte": 81.47,
-  "nox": 3.0,
-  "pm03": 1560.0,
-  "pm1": 40.3,
-  "pm10": 82.7,
-  "pm25": 52.7,
-  "smokeindex": 58.0,
-  "temperatur": -5.77,
-  "voc": 168.0
+  "feuchte": 82.21,
+  "nox": 2.0,
+  "pm03": 467.0,
+  "pm1": 6.3,
+  "pm10": 14.2,
+  "pm25": 8.1,
+  "smokeindex": 21.0,
+  "temperatur": -5.9,
+  "voc": 172.0
  },
  "haus": {
   "carport": {
@@ -35,7 +35,7 @@
   }
  },
  "quelle": "Home Assistant 2026.11.0",
- "stand": "2026-11-24T04:10:00+01:00",
+ "stand": "2026-11-24T04:15:00+01:00",
  "verlauf": {
   "carport_h": {
    "24h": [
